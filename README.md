@@ -21,12 +21,6 @@ This dataset contains 100 rows of Amazon sales data from 2010 to 2017, including
 - **Total Profit**: The total profit made from the sale (Total Revenue - Total Cost).
 - **Profit Margin**: A new feature showing the ratio of profit to revenue.
   
-## Data Preparation
-[Google Colaboratory](https://colab.research.google.com/drive/17uaQqiXCXsSVC84Y_GjDLplYLZGX33tu#scrollTo=ZOIEzSzvfRo8)
-Data cleaning was conducted in Google Colab to check for missing values or duplicate entries. After the inspection, no issues were found, indicating that the data is ready for further use.
-
-## Exploratory Data Analysis
-- Total Revenue by Year
   ## Data Preparation
 [Google Colaboratory](https://colab.research.google.com/drive/17uaQqiXCXsSVC84Y_GjDLplYLZGX33tu#scrollTo=ZOIEzSzvfRo8)
 Data cleaning was conducted in Google Colab to check for missing values or duplicate entries. After the inspection, no issues were found, indicating that the data is ready for further use.
