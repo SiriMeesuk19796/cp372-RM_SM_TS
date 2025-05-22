@@ -27,10 +27,30 @@ Data cleaning was conducted in Google Colab to check for missing values or dupli
 
 ## Exploratory Data Analysis
 - Total Revenue by Year
+  ## Data Preparation
+[Google Colaboratory](https://colab.research.google.com/drive/17uaQqiXCXsSVC84Y_GjDLplYLZGX33tu#scrollTo=ZOIEzSzvfRo8)
+Data cleaning was conducted in Google Colab to check for missing values or duplicate entries. After the inspection, no issues were found, indicating that the data is ready for further use.
+
+## Exploratory Data Analysis
+- Total Revenue by Year
+![Total Revenue by Year](images/Total_Revenue.png)
 - Profit by Region
+![Profit by Region](images/Profit_by_Region.png)
 - Product Sales by Region
+![Product Sales by Region](images/Product_Sales_by_Region.png)
 - Priority by Item Type
+![Priority by Item Type](images/Priority_by_item_type.png)
 - Profit margin by Item Type
+![Profit margin by Item Type](images/Profit_margin_by_item_type.png)
+
+
+ ## In-Depth Analysis,Insights & Recommendations,Visualization
+- Sales best of the year by Region
+![Profit by Region](images/Sales_best_of_year_by_region.png)
+- Item type about profit
+![Item type about profit](images/item_type_about_profit.png)
+- Map Profit of item type
+![Priority by Item Type](images/map_profit_of_item_type.png)
 
  ## In-Depth Analysis,Insights & Recommendations,Visualization
 
