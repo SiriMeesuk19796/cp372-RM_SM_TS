@@ -22,6 +22,16 @@ This dataset contains 100 rows of Amazon sales data from 2010 to 2017, including
 - **Profit Margin**: A new feature showing the ratio of profit to revenue.
   
 ## Data Preparation
+[Google Colaboratory](https://colab.research.google.com/drive/17uaQqiXCXsSVC84Y_GjDLplYLZGX33tu#scrollTo=ZOIEzSzvfRo8)
 Data cleaning was conducted in Google Colab to check for missing values or duplicate entries. After the inspection, no issues were found, indicating that the data is ready for further use.
 
 ## Exploratory Data Analysis
+- Total Revenue by Year
+- Profit by Region
+- Product Sales by Region
+- Priority by Item Type
+- Profit margin by Item Type
+
+ ## In-Depth Analysis,Insights & Recommendations,Visualization
+
+
