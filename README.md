@@ -1,4 +1,8 @@
 # CP372-RM_SM_TS
+## Group Members
+- 65102010201 Rujapa Monkhontirapat 
+- 65102010203 Siri Meesuk
+- 65102010417 Thatchaya Siriwaseree
 
 ## Amazon Sales Data
 This dataset contains **100 rows of Amazon sales data** from **2010 to 2017**, including information such as region, country, item type, sales channel, order priority, order date, order ID, ship date, units sold, unit price, unit cost, total revenue, total cost, and total profit.
