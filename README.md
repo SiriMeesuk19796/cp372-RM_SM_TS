@@ -31,16 +31,12 @@ Data cleaning was performed using [Google Colaboratory](https://colab.research.g
 - Dataset is ready for exploratory and in-depth analysis
 
 ## Exploratory Data Analysis
-Exploratory Data was performed using [Tableau Public](https://public.tableau.com/views/Project_Amazon_Sales_Data/BestSalesbyRegionandYear?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-).
 
 ### Total Revenue by Year
 > **Insight**: 2012 had the **highest** revenue and 2011 the **lowest**
 ![Total Revenue by Year](images/Total_Revenue.png)
 ### Profit by Region
-> **Insight**:  
-- **Top-performing**: Sub-Saharan Africa  
-- **Low-performing**: North America
+> **Insight**: **Top-performing** is Sub-Saharan Africa and **Low-performing**: North America
 ![Profit by Region](images/Profit_by_Region.png)
 ### Product Sales by Region 
 > **Insight**: Tree Map displays sales performance per region and product category
@@ -49,13 +45,13 @@ Exploratory Data was performed using [Tableau Public](https://public.tableau.com
 > **Insight**: Distribution of order priority levels by product category and country, with colors representing C (Critical), H (High), M (Medium), and L (Low)
 ![Priority by Item Type](images/Priority_by_item_type.png)
 ### Profit Margin by Item Type 
-> **Insight**:  
-- **Highest** margin: Clothing  
-- **Lowest** margin: Meat 
+> **Insight**: **Highest** margin is Clothing and **Lowest** margin is Meat 
 ![Profit margin by Item Type](images/Profit_margin_by_item_type.png)
 
 
 ## In-Depth Analysis,Insights & Recommendations,Visualization
+In-Depth Analysis using [Tableau Public](https://public.tableau.com/views/Project_Amazon_Sales_Data/BestSalesbyRegionandYear?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+).
 ### Question 1 : Which Region and Year had the Highest Sales?
 ![Profit by Region](images/Best_Sales_of_year_by_region.png)
 
