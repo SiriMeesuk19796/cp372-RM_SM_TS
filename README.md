@@ -40,7 +40,7 @@ Data cleaning was conducted in Google Colab to check for missing values or dupli
 
  ## In-Depth Analysis,Insights & Recommendations,Visualization
 - Sales best of the year by Region
-![Profit by Region](images/Sales_best_of_year_by_region.png)
+![Profit by Region](images/Best_Sales_of_year_by_region.png)
 - Item type about profit
 ![Item type about profit](images/Item_type_about_profit.png)
 - Map Profit of item type
